@@ -16,11 +16,14 @@
 | **JOIN GROUP** |✅|
 | **GROUP SETTING** |✅|
 | **MAKE STICKER** |✅|
-
+| **QR MAKER** |✅|
+| **READ VIEWONCE** |✅|
+| **DELETE MESSAGE BOT** |✅|
+| **MATH GAME** |✅|
 
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BochilGaming/games-wabot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nuzzle18/wachatbot)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
