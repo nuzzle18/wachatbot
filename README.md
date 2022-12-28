@@ -1,4 +1,4 @@
-# Games-Wabot
+# WA CHATBOT
 
 <a href="https://github.com/BochilGaming/games-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BochilGaming/games-wabot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/BochilGaming/games-wabot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BochilGaming/games-wabot?label=Watchers&color=green&style=flat-square"></a>
@@ -9,10 +9,6 @@
 <a href="https://github.com/BochilGaming/games-wabot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/BochilGaming/games-wabot?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/BochilGaming/games-wabot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BochilGaming/games-wabot?label=PullRequest&color=red&style=flat-square"></a>
 
-
-## Join Group Diskusi
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GVwpKf83s42D1CnIfDW19G) 
-**NO BOT**
 
 
 #### Deploy to Heroku
@@ -200,18 +196,9 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 )
 ```
 
-### Why my plugins not working in this multi-device?
-      
-> Please cek syntax error on your plugins. and maybe your script still using CJS
-> This multi-device script use ESM and CJS [(legacy code)](https://github.com/BochilGaming/games-wabot/tree/main) not support yet. Learn more about [ESM](https://nodejs.org/api/esm.html)
-
 ### How to delete session?
 
 > You can delete folder `sessions` or run command ```rm -rf sessions```
-
-### Why i can't scan qr code?
-
-> if your error like this ```(node:7016) UnhandledPromiseRejectionWarning: TypeError [ERR_INVALID_ARG_TYPE]: The "key" argument must be of type string or an instance of Buffer, TypedArray, DataView, or KeyObject. Received undefined``` you can use [multi-device branch](https://github.com/BochilGaming/games-wabot/tree/multi-device)
 
 ### How to change owner number?
 
@@ -234,32 +221,5 @@ global.owner = [
 ---------
 
 
-### Thanks To 
-**Allah SWT**,
-
-**Orang Tua**,
-
-**Semua yang selalu mendukung**
-
-
 #### Special Thanks to
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-
-#### Contributor
-[![Adiixyz](https://github.com/Adiixyz.png?size=100)](https://github.com/Adiixyz)
-[![idhamthoriqbot](https://github.com/idhamthoriqbot.png?size=100)](https://github.com/idhamthoriqbot)
-[![BlueShiYT](https://github.com/BlueShiYT.png?size=100)](https://github.com/BlueShiYT)
-[![zatu22](https://github.com/zatu22.png?size=100)](https://github.com/zatu22)
-[![unx21](https://github.com/unx21.png?size=100)](https://github.com/unx21)
-[![botstylee](https://github.com/botstylee.png?size=100)](https://github.com/botstylee)
-[![Jauhariq](https://github.com/Jauhariq.png?size=100)](https://github.com/Jauhariq)
-[![Nobuyaki](https://github.com/Nobuyaki.png?size=100)](https://github.com/Nobuyaki)
-[![Aiinne](https://github.com/Aiinne.png?size=100)](https://github.com/Aiinne)
-[![arisawali2014](https://github.com/arisawali2014.png?size=100)](https://github.com/arisawali2014)
-[![ryznxx](https://github.com/ryznxx.png?size=100)](https://github.com/ryznxx)
-[![ZeroChanBot](https://github.com/ZeroChanBot.png?size=100)](https://github.com/ZeroChanBot)
-[![Bintangp02](https://github.com/Bintangp02.png?size=100)](https://github.com/Bintangp02)
-[![itsmeR1F4I](https://github.com/itsmeR1F4I.png?size=100)](https://github.com/itsmeR1F4I)
-[![DineshValor](https://github.com/DineshValor.png?size=100)](https://github.com/DineshValor)
-[![TeamMars20](https://github.com/TeamMars20.png?size=100)](https://github.com/TeamMars20)
