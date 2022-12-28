@@ -1,5 +1,22 @@
 # WA CHATBOT
 
+#### Feature
+| Fitur | ✅ |
+|--------|--------|
+| **BROADCAST** |✅|
+| **SAVE FILE** |✅|
+| **GET FILE** |✅|
+| **SAVE MESSAGE** |✅|
+| **GET MESSAGE** |✅|
+| **LIST MESSAGE** |✅|
+| **TEXT TO SPEECH** |✅|
+| **JADWAL SHOLAT** |✅|
+| **OWNER CMD** |✅|
+| **ENABLE SETTING** |✅|
+| **JOIN GROUP** |✅|
+| **GROUP SETTING** |✅|
+| **MAKE STICKER** |✅|
+
 
 
 #### Deploy to Heroku
