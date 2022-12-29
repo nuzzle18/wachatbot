@@ -43,7 +43,7 @@ $ git clone https://github.com/BochilGaming/games-wabot -b multi-device
 $ cd games-wabot
 $ npm i 
 ```
-If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
+If error try using yarn instead of npm, see [here](https://github.com/nuzzle18/wachatbot#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```sh
 $ node .
 ```
